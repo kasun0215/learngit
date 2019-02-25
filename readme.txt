@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 New branch dev
 Test for merge with FF   --fix bug 002
 Test for fix bug --dev
+Test for stash --dev
