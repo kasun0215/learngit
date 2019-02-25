@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 New branch dev
 Test for mearge with FF
+Test for stash --dev
